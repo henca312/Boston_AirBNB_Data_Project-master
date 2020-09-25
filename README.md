@@ -44,9 +44,9 @@ File Descriptions
 The following files are provided:
 * Boston Project DRAFT.ipynb (Notebook in Jupyter Lab)
 * Data.zip containing:
-** Listings.csv, including full descriptions and average review score
-** Reviews.csv, including unique id for each reviewer and detailed comments
-** Calendar.csv , including listing id and the price and availability for that day
+* Listings.csv, including full descriptions and average review score
+* Reviews.csv, including unique id for each reviewer and detailed comments
+* Calendar.csv , including listing id and the price and availability for that day
 
 
 
