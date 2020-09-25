@@ -42,10 +42,11 @@ The following packages were used in this python project:
 File Descriptions
 ==========
 The following files are provided:
-* Listings.csv, including full descriptions and average review score
-* Reviews.csv, including unique id for each reviewer and detailed comments
-* Calendar.csv , including listing id and the price and availability for that day
-* Analyze.py, including the python script to analyze the data and provide insights.
+* Boston Project DRAFT.ipynb (Notebook in Jupyter Lab)
+* Data.zip containing:
+** Listings.csv, including full descriptions and average review score
+** Reviews.csv, including unique id for each reviewer and detailed comments
+** Calendar.csv , including listing id and the price and availability for that day
 
 
 
