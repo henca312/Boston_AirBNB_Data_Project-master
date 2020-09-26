@@ -1,6 +1,7 @@
 Boston AirBNB Data Project
 ==========
 Link Blog Post: https://medium.com/@hendrik.carius/price-prediction-airbnb-boston-af10e5c09b24
+Link Git Hub: https://github.com/henca312/Boston_AirBNB_Data_Project-master
 
 Readme:
 - Project Motivation
