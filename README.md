@@ -39,7 +39,6 @@ The following packages were used in this python project:
 * matplotlib
 
 
-
 File Descriptions
 ==========
 The following files are provided:
